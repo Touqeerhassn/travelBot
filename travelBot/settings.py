@@ -81,12 +81,23 @@ WSGI_APPLICATION = 'travelBot.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
+
+# DATABASES = {
+#         'default': {
+#             'ENGINE': 'djongo',
+#             'NAME': 'test',
+#             'CLIENT': {
+#                 'host': 'mongodb+srv://touqeerqfnetwork:egLjfh7Jlsq69oN6@cluster0.cruq0gs.mongodb.net/?retryWrites=true&w=majority',
+#                 'username': 'touqeerqfnetwork',
+#                 'password': 'egLjfh7Jlsq69oN6',
+#             }}
+#         }
 
 
 # Password validation

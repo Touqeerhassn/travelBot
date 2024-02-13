@@ -1,57 +1,81 @@
 Question,Answer
 Hi!,Hello! What can I help you with today?
-"Hey, how's it going?",Hi! I'm here and ready to assist. What's on your mind?
+"Hey how's it going?",Hi! I'm here and ready to assist. What's on your mind?
 Greetings!,Greetings! How may I be of service to you?
 Good morning!,Good morning! Ready to tackle the day? How can I assist you?
 Howdy!,Howdy! What brings you here? Any questions or concerns?
 Aloha!,Aloha! What can I do for you today? Feel free to ask.
 Hi there!,Hi there! I'm here to help. What do you need assistance with?
-"Hello, good sir/madam!","Hello!, sir/madam! How may I assist you today?"
+"Hello good sir/madam!","Hello! How may I assist you today?"
 Yo!,Yo! What's up? Need any assistance or information?
-thankyou, You're welcome! If you have any more questions or need further assistance, feel free to ask!
-thanks that is really helpful, It was my pleasure! If there's anything else you need, just let me know.
+thankyou, You're welcome! If you have any more questions or need further assistance feel free to ask!
+thanks that is really helpful, It was my pleasure! If there's anything else you need just let me know.
 bye!, have a nice journey.
 good bye, Good bye.
-ok, If you have any more questions or need further assistance, feel free to ask!
-okey, If you have any more questions or need further assistance, feel free to ask!
+ok, If you have any more questions or need further assistance feel free to ask!
+okey, If you have any more questions or need further assistance feel free to ask!
 okay,  Great! Let me know if you need anything else.
+I see.,Let me check that for you. Is there something specific you were looking for?
+Sure, Sure thing! Just let me know.
+What are your pricing plans for monthly subscriptions?, The cost varies depending on the destination and the frequency of your trips. the monthly subscription for a route to [database_location] is [database_fare]. Please note that prices may vary based on the specific route and any ongoing promotions or discounts.
+No problem.,That's perfectly fine. If you need anything else feel free to ask.
+Are there family-friendly amenities?, Absolutely! Our family-friendly amenities include child seats diaper-changing stations and entertainment options for kids.
+What routes are available for intercity travel?, We operate on various intercity routes connecting major cities. Visit our website or inquire at the ticket counter for specific route details.
+Can I transfer to another bus during my journey?, Depending on the route you may have transfer options. Check with our staff or refer to our route maps for transfer points.
+What happens if my bus is delayed?, In case of delays we’ll keep you informed via notifications or announcements. You can also track real-time bus status on our website or app.
+Can you provide more details about the pricing?, Certainly! I’d be happy to provide you with information on our pricing. If you’re traveling to [database_location] the fare is [database_fare]. Feel free to ask if you have any specific questions!
+What does your pricing plan include?, Sure! We offer flexible pricing options to cater to different needs.Our plans include a variety of features and services and you can choose the one that best aligns with your requirements.
+How do I book a ticket?, Booking a ticket is easy! You can either book online through our website or visit one of our ticket counters. Simply choose your destination select the date and time and complete the payment process.
+What is the process for booking a one-way trip?, To book a one-way trip follow the same steps as booking a regular ticket. Just make sure to select the appropriate option for one-way travel during the booking process.
+How much luggage am I allowed to carry?, Luggage allowances vary depending on the route and ticket type. passengers are allowed one or two pieces of checked baggage and a small carry-on. Check our website or contact our customer service for specific details.
+How can I cancel my trip or ticket?, If you need to cancel your trip log in to your account on our website and navigate to the booking section. Follow the cancellation process.
+Can I reschedule my trip?, Yes you can reschedule your trip! Contact our customer service or visit our ticket counter to make changes to your booking. Keep in mind that rescheduling may be subject to availability and fees.
+How do I contact the bus or train company?, You can find our contact information on our website or at the ticket counter. Feel free to call or email us for any inquiries or assistance.
+What payment methods do you accept?, We accept various payment methods including credit cards debit cards and cash. Check our website or inquire at the ticket counter for specific details.
+Is there Wi-Fi available on the buses?, Yes most of our buses are equipped with Wi-Fi. You can stay connected during your journey and browse the internet or catch up on work.
+Are there discounts for senior citizens or students?, Absolutely! We offer special discounts for senior citizens and other eligible groups. Make sure to provide valid identification to avail of these discounts.
+What amenities are available on long-distance buses?, Our long-distance buses are equipped with comfortable seating air conditioning restrooms and entertainment options. Some routes may also offer snacks or refreshments
+Can I change my seat after booking?, Yes you can change your seat if there are available options. Visit our website or contact our customer service to request a seat change.
+What safety measures are in place during the pandemic? , We prioritize passenger safety. Our buses undergo regular sanitization and passengers are required to wear masks. Social distancing measures are also implemented.
+s there a loyalty program for frequent travelers?, Yes! Our loyalty program rewards frequent travelers with points that can be redeemed for discounts or other benefits. Sign up on our website to join the program.
+How much does it cost to travel to [specific location]?, The fare depends on the specific route and distance. Could you please provide the exact location you’re interested in and I’ll give you the pricing details?
 How much does it cost to travel from location to location?, The fare for a journey from [source_location] to [database_location] is [database_fare].
-Can you provide details on your pricing plans for monthly subscriptions?,  The cost varies depending on the destination and the frequency of your trips. For example, the monthly subscription for [database_location] is [database_fare]
-I'd like to know more about the pricing details? , Sure, I'd be happy to provide you with information on our pricing.  if you're traveling to [database_location], the fare is [database_fare]. Please note that prices may vary based on the specific route and any ongoing promotions or discounts.
-i want to know about your pricing plan? ,Sure, I'd be happy to provide information about our pricing plans. We offer flexible pricing options to cater to different needs. Our plans include a variety of features and services, and you can choose the one that best aligns with your requirements
-I am not sure.,Sorry, I couldn't understand what you meant. Could you please  provide more details or clarify your question?
-How can I book a bus ticket?,"Good question! We provide real-time tracking for our buses. erst you've booked your ticket, you'll receive a link to track your bus on the day of travel. Anything else you'd like to know?"
-How long will the trip take?,"Absolutely! Just let me know the origin and destination, and I'll show you the uncommitted schedules."
-What if my bus is delayed or cancelled?,"Yes, you can usually change or cancel your booking through me, but the policy may vary depending along the operator and fare type. I can check the specific policy for you."
+Can you provide details on your pricing plans for monthly subscriptions?,  The cost varies depending on the destination and the frequency of your trips. For example the monthly subscription for [database_location] is [database_fare]
+I'd like to know more about the pricing details? , Sure! I'd be happy to provide you with information on our pricing.  if you're traveling to [database_location] the fare is [database_fare]. Please note that prices may vary based on the specific route and any ongoing promotions or discounts.
+i want to know about your pricing plan? ,Sure! I'd be happy to provide information about our pricing plans. We offer flexible pricing options to cater to different needs. Our plans include a variety of features and services and you can choose the one that best aligns with your requirements
+I am not sure.,Sorry! I couldn't understand what you meant. Could you please  provide more details or clarify your question?
+How can I book a bus ticket?, Good question! We provide real-time tracking for our buses. erst you've booked your ticket you'll receive a link to track your bus on the day of travel. Anything else you'd like to know?"
+How long will the trip take?, Absolutely! Just let me know the origin and destination and I'll show you the uncommitted schedules."
+What if my bus is delayed or cancelled?, Yes you can usually change or cancel your booking through me but the policy may vary depending along the operator and fare type. I can check the specific policy for you."
 I have a question that's non listed here.,I'll do my best to keep you updated on any delays or cancellations. You can also check the operator's website or app for real-time updates.
 Hi! I'm new to using your bus service. Can you tell me what you offer?,No problem! I'm happy to answer any questions you have about your bus travel.
 I'm planning a trip to [destination] in a few weeks.,Great news! We have a seat available for your trip from [database_location] to [destination_location]. The available seat is Seat Number [database_seat]. The bus will depart at [database_time].
 Hi again! I've used your service in_front and loved it. I'm planning another trip to [destination] on [date].,Absolutely! Just tell me how many passengers and any preferred seating options.
 The [time] departure on [date] works perfectly. Can you check if I have any points or rewards I can use for this booking?,No problem! You can see their upcoming departures for that route right here [database].
-"Hi, I'm having trouble finding a bus to destination along date on your wibsite.","I apologize for the inconvenience. To better assist you, could you please provide the specific details of your journey"
-"Oh, that's much better! I see a bus departing at time on date.","Oh, that's great to hear! To assist you with the specific bus departure time and date, could you please provide me with the departure and arrival locations or the bus route you're interested in? Once I have that information, I can help you find the details for your trip"
-i am going to travel from karachi to lahor at evening is there any seat available?,"Fantastic! For your journey from [location] to [location] in the [time], We have a comfortable seat available for you: Seat Number[database]. The bus will depart from [location] at [Database_time] and is estimated to reach [location] at [Database_time] the next day."
-Thanks for your help! I feel much more_than prepared for my trip now.,"You're very welcome! I'm glad I could help. If you have any more questions or need assistance in the future, feel free to reach out. Have a fantastic trip, and stay safe!"
-How can I book a bus ticket?,"Booking a bus ticket can be done through various platforms, both online and offline"
-What defrayal methods do you accept?,"You can book your ticket directly through website Just tell your origin, destination, locomotion date, and preferred bus operator."
-Can I see the bus docket for a specific route?,"I'm sorry, but I don't have the capability to display specific documents or files, including bus dockets for specific routes. To obtain the bus docket for a specific route, I recommend checking with the relevant transportation authority, bus company, or platform where you made the booking."
-How long will the trip take?,"Absolutely! Just let me know the origin and destination, and I'll show you the uncommitted schedules."
+Hi! I'm having trouble finding a bus to destination along date on your wibsite.,I apologize for the inconvenience. To better assist you could you please provide the specific details of your journey
+Oh! that's much better! I see a bus departing at time on date.,Oh that's great to hear! To assist you with the specific bus departure time and date could you please provide me with the departure and arrival locations or the bus route you're interested in? Once I have that information I can help you find the details for your trip
+i am going to travel from karachi to lahor at evening is there any seat available?,Fantastic! For your journey from [location] to [location] in the [time] We have a comfortable seat available for you: Seat Number[database]. The bus will depart from [location] at [Database_time] and is estimated to reach [location] at [Database_time] the next day.
+Thanks for your help! I feel much more_than prepared for my trip now.,You're very welcome! I'm glad I could help. If you have any more questions or need assistance in the future feel free to reach out. Have a fantastic trip and stay safe!
+How can I book a bus ticket?,Booking a bus ticket can be done through various platforms both online and offline
+What defrayal methods do you accept?,You can book your ticket directly through website Just tell your origin destination locomotion date and preferred bus operator.
+Can I see the bus docket for a specific route?,I'm sorry! but I don't have the capability to display specific documents or files including bus dockets for specific routes. To obtain the bus docket for a specific route. I recommend checking with the relevant transportation authority bus company or platform where you made the booking.
+How long will the trip take?,Absolutely! Just let me know the origin and destination and I'll show you the uncommitted schedules.
 Do you offer baggage allowance?,The trip time varies depending on the route and traffic conditions. I can give you AN estimated travel time based on current information.
-What amenities are available on the bus?,"Yes, we do! Each passenger is allowed one carry-on bag and one checked bag. You can find more details on our website or by asking me."
-Can I change or cancel my booking?,"Yes, you can typically change or cancel your booking, but it depends on the policies of the service or platform you used to make the reservation. I recommend checking the terms and conditions of your booking"
-What if my bus is delayed or cancelled?,"Yes, you can usually change or cancel your booking through me, but the policy may vary depending along the operator and fare type. I can check the specific policy for you."
+What amenities are available on the bus?,Yes! we do! Each passenger is allowed one carry-on bag and one checked bag. You can find more details on our website or by asking me.
+Can I change or cancel my booking?,Yes! you can typically change or cancel your booking but it depends on the policies of the service or platform you used to make the reservation. I recommend checking the terms and conditions of your booking
+What if my bus is delayed or cancelled?,Yes! you can usually change or cancel your booking through me but the policy may vary depending along the operator and fare type. I can check the specific policy for you.
 I have a question that's non listed here.,I'll do my best to keep you updated on any delays or cancellations. You can also check the operator's website or app for real-time updates.
 Hi! I'm new to using your bus service. Can you tell me what you offer?,No problem! I'm happy to answer any questions you have about your bus travel.
 I'm planning a trip to destination in a few weeks.,Welcome aboard! We offer comfortable and reliable bus travel across various routes. Where are you interested in going?
-"Thank you! These are all direct routes, right?","Sure! Here are the upcoming departures from [origin_in_Database] to [destination_in_database], including details on travel time and operators."
-I'm flexible. Can you tell me which option has the most amenities like Wi-Fi or charging points?,"Absolutely! If you're looking for options with the most amenities such as Wi-Fi and charging points, I recommend checking out venues that explicitly mention these features. Look for places that highlight 'high-speed Wi-Fi' or 'ample charging points' in their descriptions."
-That sounds good! Can I book my ticket right now through you?,"The bus departing offers Wi-Fi, charging outlets, and well-heeled reclining seats."
+Thank you! These are all direct routes right?,Sure! Here are the upcoming departures from [origin_in_Database] to [destination_in_database]. including details on travel time and operators.
+I'm flexible. Can you tell me which option has the most amenities like Wi-Fi or charging points?,"Absolutely! If you're looking for options with the most amenities such as Wi-Fi and charging points. I recommend checking out venues that explicitly mention these features. Look for places that highlight 'high-speed Wi-Fi' or 'ample charging points' in their descriptions."
+That sounds good! Can I book my ticket right now through you?,"The bus departing offers Wi-Fi charging outlets and well-heeled reclining seats."
 Hi again! I've used your service in_front and loved it. I'm planning another trip to [destination] on [date].,Absolutely! Just tell me how many passengers and any preferred seating options.
-"Yes, please. I'd like to book the same operator iodine used last time.",Welcome back! We're glad you enjoyed your previous experience. Can I help you find your next adventure?
+"Yes! please. I'd like to book the same operator iodine used last time.",Welcome back! We're glad you enjoyed your previous experience. Can I help you find your next adventure?
 The time departure on date works perfectly. Can you check if I have any points or rewards I can use for this booking?,No problem! You can see their upcoming departures for that route in our website route section.
-"Yes, please! Apply all my points.",Would you like to redeem them for a discount on this ticket?
-"Hi, I'm having trouble finding a bus to destination along date.",Would you like to proceed with booking?
-"Yes, I can travel a day earlier or later.","Absolutely! I am flexible and can accommodate travel plans a day earlier or later. Feel free to let me know your preferred schedule, and I'll make the necessary arrangements for you"
-Question:Can you tell me more about the amenities on that one?,"Okay, let me see what options are available for those dates."
-"Wait, I just realized I need to add baggage. Can I do that through you?",Absolutely! This bus features available on our website. Would you like to book your ticket now?
-Thanks for your help! I feel much more_than prepared for my trip now.,"You're welcome! I'm glad I could help you feel well-prepared for your trip. If you have any more questions or need further assistance before or during your journey, feel free to ask. Have a fantastic trip!."
+"Yes! please! Apply all my points.",Would you like to redeem them for a discount on this ticket?
+"Hi! I'm having trouble finding a bus to destination along date.",Would you like to proceed with booking?
+"Yes! I can travel a day earlier or later.","Absolutely! I am flexible and can accommodate travel plans a day earlier or later. Feel free to let me know your preferred schedule and I'll make the necessary arrangements for you"
+Question:Can you tell me more about the amenities on that one?,"Okay! let me see what options are available for those dates."
+"Wait! I just realized I need to add baggage. Can I do that through you?",Absolutely! This bus features available on our website. Would you like to book your ticket now?
+Thanks for your help! I feel much more_than prepared for my trip now.,"You're welcome! I'm glad I could help you feel well-prepared for your trip. If you have any more questions or need further assistance before or during your journey feel free to ask. Have a fantastic trip!."

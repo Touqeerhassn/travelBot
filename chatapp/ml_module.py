@@ -51,6 +51,7 @@ def greet(sentence):
 
 
 def responses(user):
+    print(f"User said : {user}")
     response=''
     question.append(user)
     TfidfVec = TfidfVectorizer(tokenizer=LemNormalize, stop_words='english')
